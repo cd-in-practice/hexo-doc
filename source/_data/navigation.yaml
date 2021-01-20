@@ -1,0 +1,15 @@
+logo:
+  text: My Documentation
+  type: link
+  path: index.html
+
+main:
+- text: PROJECTS
+  type: label
+- text: My Awesome Projects
+  type: link
+  path: lorem-ipsum.html
+  children:
+  - text: My Awesome Projects Page 1
+    type: link
+    path: projects/my-awesome-project-page-1.html
